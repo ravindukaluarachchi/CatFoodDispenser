@@ -1,0 +1,9 @@
+# Compiled Python bytecode
+*.py[cod]
+
+
+# Image files
+*.png
+*.jpg
+*.jpeg
+
